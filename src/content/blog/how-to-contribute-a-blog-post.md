@@ -1,16 +1,15 @@
 ---
 title: How to Contribute a Blog Post
-pubDate: 27/09/2024 14:25
+description: Learn how to add your own blog posts to our repository by creating a pull request or submitting an issue using our GitHub template.
+pubDate: 2024-04-30 17:30
 author: "Boubacar BARRY"
 tags:
   - GitHub
   - Markdown
   - Contribution
 imgUrl: '../../assets/github-contributions.webp'
-description: Learn how to add your own blog posts to our repository by creating a pull request or submitting an issue using our GitHub template.
 layout: '../../layouts/BlogPost.astro'
 ---
-
 
 ## How to Contribute a Blog Post
 
