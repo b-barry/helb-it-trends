@@ -1,4 +1,4 @@
-# IT Trends: Stay Ahead with Insights on the Latest in Technology
+# HELB - IT Trends
 
 The IT Trends course focuses on keeping up with the fast-evolving world of technology. 
 Students engage in weekly activities that include reading diverse IT sources and summarizing key learnings through blog posts. 
