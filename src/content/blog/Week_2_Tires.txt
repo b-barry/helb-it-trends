@@ -1,0 +1,20 @@
+title: New Tires
+pubDate: 11/10/24 - 08H00
+author: "Jamal Assou"
+tags:
+  - Tag1
+  - Tag2
+imgUrl: '../../assets/your-image.jpg'
+description: A brief description of your blog post.
+layout: '../../layouts/BlogPost.astro'
+---
+
+## Your Blog Post Title
+
+Your content goes here.
+
+Pirelli and Bosch have announced a partnership to develop connected tires aimed at improving driving and enhancing the driving experience. The tires will be equipped with sensors that send real-time data to the car's systems, optimizing functions like braking (ABS), stability control (ESP), and traction control (TCS). The goal is to increase safety, performance, and reduce tire wear, which could have positive environmental impacts.
+
+Pirelli has shelved its previous 5G tire project for now, opting instead to use Bluetooth Low Energy (BLE) technology for communication. The two companies have already equipped a Pagani Utopia Roadster with this technology and plan to integrate Bosch's microelectromechanical systems (MEMS) into future tires. However, no market release date has been announced yet.
+
+https://www.futura-sciences.com/tech/actualites/technologie-pirelli-bosch-inventent-pneus-connectes-vont-transformer-votre-conduite-116609/
