@@ -6,7 +6,7 @@ tags:
   - Git
   - Github
   - GitGuardian
-imgUrl: '../../assets/gitguardian_logo.jpg'  
+imgUrl: '../../assets/gitguardian_logo.png'  
 description: In this blog, you will know what is GitGuardian and how it work.  
 layout: '../../layouts/BlogPost.astro'  
 ---

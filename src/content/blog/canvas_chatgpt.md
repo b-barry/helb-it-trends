@@ -5,7 +5,7 @@ author: "EL BOUCHTILI Imaddine"
 tags:  
   - ChatGPT
   - IA
-imgUrl: '../../assets/chatgpt_logo.jpg'  
+imgUrl: '../../assets/chatgpt_logo.png'  
 description: A new dev changing functionnality appear on ChatGPT.  
 layout: '../../layouts/BlogPost.astro'  
 ---
