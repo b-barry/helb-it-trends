@@ -35,7 +35,5 @@ To end this failure, Intel extended warranties to multiple PC gamers after two g
 
 [To read more click here ](https://www.theverge.com/2024/9/20/24249949/intel-qualcomm-rumor-takeover-acquisition-arm-x86)
 
-written on 05/10/2024 by
 
-Bagci Izla 
 
