@@ -1,3 +1,25 @@
+---
+title: Open AI, a new interface of ChatGPT for Coding !
+pubDate: 06/10/2024 18:00
+author: "Bagci Izla"
+tags:
+  tags:
+  - OpenAI
+  - ChatGPT
+  - Coding
+  - AI Tools
+  - Programming
+  - Canvas
+  - Software Development
+  - Code Review
+
+imgUrl: 'https://techcrunch.com/wp-content/uploads/2024/10/Screenshot-2024-10-03-at-12.27.28PM.png'
+description: An interface in ChatGPT to code.
+layout: '../../layouts/BlogPost.astro'
+---
+
+
+
 
 # Open AI, a new interface of ChatGPT for Coding !
 
@@ -34,6 +56,3 @@ ElevenLabs is a voice generator that delivers human high-quality speech in 32 la
 
 [Click here to read mode ](https://thenewstack.io/openai-launches-new-chatgpt-interface-designed-for-coding/)
 
-Written on 05/10/2024 by 
-
-Izla Bagci

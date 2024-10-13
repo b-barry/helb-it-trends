@@ -1,3 +1,19 @@
+
+---
+title: "VSCode: File Auto Save Settings"
+pubDate: 06/10/2024 18:30
+author: "Izla Bagci"
+tags:
+  - VSCode
+  - Auto Save
+  - Settings
+imgUrl: 
+- 'https://mcusercontent.com/ea228d7061e8bbfa8639666ad/images/c0867e3f-bc28-0206-b159-86a6bca4ef12.png'
+- 'https://mcusercontent.com/ea228d7061e8bbfa8639666ad/images/17ce10c0-8120-8ab3-8758-9d0ca12251ce.png'
+description: "A guide to using the auto-save feature in VSCode, with detailed settings."
+layout: '../../layouts/BlogPost.astro'
+---
+
 # VSCode : File auto save settings
 
 
@@ -30,7 +46,5 @@ There’s one last setting that comes turned on by default: Files > Refactoring:
 [Click here to read more](https://vscode.email/archives/issue-127/)
 
 
-Written on 06/10/2024 by
 
-Izla Bagci
 
