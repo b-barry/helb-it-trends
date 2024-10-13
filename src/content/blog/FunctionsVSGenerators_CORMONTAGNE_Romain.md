@@ -1,6 +1,6 @@
 ---
-title: Functions VS Generators : what to use in data science ?
-pubDate: Oct 11, 2024 at 15h15
+title: "Functions VS Generators : what to use in data science ?"
+pubDate: 2024-10-11 15:15
 author: Cormontagne Romain
 tags:
   - Python

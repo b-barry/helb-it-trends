@@ -1,6 +1,6 @@
 ---
 title: The technical complexities of external authorization
-pubDate: Oct 11, 2024 at 15h15
+pubDate: 2024-10-11 15:15
 author: Cormontagne Romain
 tags:
   - Architecture
