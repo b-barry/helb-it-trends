@@ -34,4 +34,6 @@ The research indicates that quantum computers may be able to break current encry
 
 Many companies are developing "quantum-safe" encryption methods, but recent Chinese research highlights the urgent need for their implementation to protect sensitive data. The study from Wang Chao's team serves as a wake-up call for the cybersecurity community, stressing that quantum computing's rapid evolution necessitates immediate action to rethink encryption strategies. Experts emphasize that post-quantum cryptography (PQC) is essential to prevent advanced cyberattacks enabled by quantum computers.
 
+---
 
+Source : https://www.csoonline.com/article/3562701/chinese-researchers-break-rsa-encryption-with-a-quantum-computer.html
