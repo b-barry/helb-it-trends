@@ -7,7 +7,7 @@ tags:
   - GitHub
   - Markdown
   - Contribution
-imgUrl: '../../assets/-------------------------------------------------------------.jpg'
+imgUrl: '../../assets/java.webp'
 layout: '../../layouts/BlogPost.astro'
 ---
 
