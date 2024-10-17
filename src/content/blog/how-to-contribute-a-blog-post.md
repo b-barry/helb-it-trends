@@ -1,117 +1,37 @@
 ---
-title: How to Contribute a Blog Post
-description: Learn how to add your own blog posts to our repository by creating a pull request or submitting an issue using our GitHub template.
-pubDate: 2024-04-30 17:30
-author: "Boubacar BARRY"
+title: RSA encryption broken with a quantum computer by chinese researchers
+description: The research team, led by Wang Chao from Shanghai University, found that D-Wave’s quantum computers can optimize problem-solving in a way that makes it possible to attack encryption methods such as RSA.
+pubDate: 2024-10-17 23:04
+author: "Friedrich Nihat Röben"
 tags:
   - GitHub
   - Markdown
   - Contribution
-imgUrl: '../../assets/github-contributions.webp'
+imgUrl: '../../assets/quantum-computer.jpg'
 layout: '../../layouts/BlogPost.astro'
 ---
 
-## How to Contribute a Blog Post
+## RSA encryption broken with a quantum computer by chinese researchers
 
-Are you interested in sharing your knowledge by adding a blog post to our repository? In this guide, we'll show you how to contribute your own blog posts directly to our GitHub repository. You can either create a pull request or submit an issue following our GitHub template.
+The research team, led by Wang Chao from Shanghai University, found that D-Wave’s quantum computers can optimize problem-solving in a way that makes it possible to attack encryption methods such as RSA.
 
-### Prerequisites
+### RSA
 
-- A GitHub account
-- Basic understanding of Git and Markdown
-
-We will be covering the following:
-
-- Forking the repository
-- Cloning the repository
-- Creating a new branch
-- Adding your blog post
-- Committing and pushing your changes
-- Creating a pull request
-- Alternative: Submitting an issue
-- Conclusion
+RSA is an asymmetric encryption algorithm that uses a public key for encryption and a private key for decryption. Its security relies on the computational difficulty of factoring the product of two large prime numbers, which, with classical computing methods, is nearly impossible to solve within a reasonable time frame without the private key. This makes RSA highly secure for protecting data from unauthorized access
 
 ---
 
-### Forking the Repository
+### The demonstration
 
-Let's start by forking our public repository to your own GitHub account.
+Chinese researchers have demonstrated a method using D-Wave's quantum annealing systems to break classic encryption, suggesting a significant threat to global cybersecurity. Their study, published in the Chinese Journal of Computers, showed how D-Wave's quantum computers could break RSA encryption and target symmetric encryption systems like AES. The researchers successfully factored a 22-bit RSA integer and attacked other algorithms, including Present and Gift-64. The research highlights the need for post-quantum cryptographic solutions as quantum computing increasingly poses a threat to current encryption standards.
 
-1. Navigate to the repository page.
-2. Click on the **Fork** button at the top-right corner.
+### Threat for Cybersecurity ?
 
-### Cloning the Repository
+The research indicates that quantum computers may be able to break current encryption sooner than expected, posing a serious threat to data security, privacy, and cryptographic principles like confidentiality and integrity. Experts warn that data encrypted today could be vulnerable if adversaries collect it now to decrypt in the future as quantum technology advances, highlighting the urgent need for reassessing cryptographic security.
 
-Clone the forked repository to your local machine:
 
-```bash
-git clone https://github.com/b-barry/helb-it-trends
-cd helb-it-trends
-```
+### Quantum-safe encryption
 
-### Creating a New Branch
+Many companies are developing "quantum-safe" encryption methods, but recent Chinese research highlights the urgent need for their implementation to protect sensitive data. The study from Wang Chao's team serves as a wake-up call for the cybersecurity community, stressing that quantum computing's rapid evolution necessitates immediate action to rethink encryption strategies. Experts emphasize that post-quantum cryptography (PQC) is essential to prevent advanced cyberattacks enabled by quantum computers.
 
-Create a new branch for your blog post:
 
-```bash
-git checkout -b add-my-blog-post
-```
-
-### Adding Your Blog Post
-
-Add your blog post in the `src/content/blog` directory using the provided Markdown template.
-
-#### The Markdown Template
-
-```markdown
----
-title: Your Blog Post Title
-pubDate: Date and Time
-author: "Your Name"
-tags:
-  - Tag1
-  - Tag2
-imgUrl: '../../assets/your-image.jpg'
-description: A brief description of your blog post.
-layout: '../../layouts/BlogPost.astro'
----
-
-## Your Blog Post Title
-
-Your content goes here.
-```
-
-Make sure to fill out all the fields accordingly.
-
-### Committing and Pushing Your Changes
-
-After adding your blog post, commit your changes:
-
-```bash
-git add .
-git commit -m "Add my blog post"
-git push origin add-my-blog-post
-```
-
-### Creating a Pull Request
-
-Go to your forked repository on GitHub and click on **Compare & pull request** to submit your changes for review.
-
----
-
-### Alternative: Submitting an Issue
-
-If you're not familiar with Git or prefer not to use it, you can submit your blog post by creating an issue using our GitHub template.
-
-#### Steps to Submit an Issue
-
-1. Navigate to the **Issues** tab in the repository.
-2. Click on **New Issue**.
-3. Select the **Blog Post Submission** template.
-4. Fill in the required information and paste your blog post content.
-
----
-
-### Conclusion
-
-If you have any questions or need assistance, feel free to reach out!
