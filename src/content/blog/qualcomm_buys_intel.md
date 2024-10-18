@@ -1,3 +1,15 @@
+---
+title: Qualcomm may buy Intel
+pubDate: 06/10/2024 19:00
+author: "Bagci Izla "
+tags:
+  - Technology
+  - Semiconductor
+description: A brief description of your blog post.
+layout: '../../layouts/BlogPost.astro'
+---
+
+
 # Qualcomm may buy Intel
 
 The American journal "The Wall Street Journal" reported that Intel might be purchased by its concurrent Qualcomm.
