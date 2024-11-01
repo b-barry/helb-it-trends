@@ -1,5 +1,5 @@
 ---
-title: Gitguardian
+title: GitGuardian
 pubDate: 2024-10-10 22:30  
 author: "EL BOUCHTILI Imaddine"  
 tags:  
@@ -11,7 +11,7 @@ description: In this blog, you will know what is GitGuardian and how it work.
 layout: '../../layouts/BlogPost.astro'  
 ---
 
-## Canvas Mode In ChatGPT
+## GitGuardian
 
 ### Introduction
 
