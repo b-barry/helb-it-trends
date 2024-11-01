@@ -1,0 +1,23 @@
+title: New Tires
+pubDate: 11/10/24 - 08H00
+author: "Jamal Assou"
+tags:
+  - Tag1
+  - Tag2
+imgUrl: '../../assets/your-image.jpg'
+description: A brief description of your blog post.
+layout: '../../layouts/BlogPost.astro'
+---
+
+## Your Blog Post Title
+
+
+1.	Discovery of the Vulnerability: The issue arose when Schütz mistakenly entered the wrong PIN three times after a battery failure on his Pixel 6. He had to use the PUK code to unlock his SIM card.
+2.	Abnormal Device Behavior: Upon restarting the device, instead of prompting for the usual unlock code, the phone went straight to the fingerprint sensor, allowing him to bypass standard security.
+3.	Exploitation of the Vulnerability: By reproducing this situation, Schütz found that it was possible for someone to access the home screen without entering a password. This could enable a malicious actor to access all data on the phone by inserting their own SIM card and entering the PUK code.
+4.	Impact of the Vulnerability: This issue affects all Android devices running versions 10 to 13 that haven't received the November 2023 security patch. Google took a significant amount of time to address this vulnerability, reported in June, raising concerns about other brands that may also be affected if they don't update their devices promptly.
+5.	User Recommendations: Users of Pixel and other Android devices should ensure their systems are up to date to avoid such vulnerabilities. They should also be cautious in case of loss or theft, as this method could allow thieves to access sensitive information.
+Overall, this case emphasizes the importance of cybersecurity and the need for manufacturers to quickly provide security updates to protect users from vulnerabilities.
+
+
+https://www.futura-sciences.com/tech/actualites/cybersecurite-debloquer-smartphone-android-mot-passe-ni-empreinte-digitale-101756/
