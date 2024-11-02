@@ -4,9 +4,9 @@ description: The use of AI tools to create explicit images of children is posing
 pubDate: 2024-10-18 00:22
 author: "Friedrich Nihat Röben"
 tags:
-  - GitHub
-  - Markdown
-  - Contribution
+  - AI
+  - Threat
+  - Law
 imgUrl: '../../assets/AI_Threat.png'
 layout: '../../layouts/BlogPost.astro'
 ---

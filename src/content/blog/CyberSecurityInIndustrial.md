@@ -4,9 +4,9 @@ description: Having a secure system is what's missing in the industrial sector. 
 pubDate: 2024-10-22 20:35
 author: "Friedrich Nihat Röben"
 tags:
-  - GitHub
-  - Markdown
-  - Contribution
+  - Cybersecurity
+  - Industrial
+  - Attacks
 imgUrl: '../../assets/industrialSecurity.jpg'
 layout: '../../layouts/BlogPost.astro'
 ---

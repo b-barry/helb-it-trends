@@ -5,9 +5,8 @@ description: The latest Windows update issue is impacting specific Asus PCs. Her
 pubDate: 2024-10-24 23:35
 author: "Friedrich Nihat Röben"
 tags:
-  - GitHub
-  - Markdown
-  - Contribution
+  - Windows
+  - Update problems
 imgUrl: '../../assets/bsod.jpeg'
 layout: '../../layouts/BlogPost.astro'
 ---

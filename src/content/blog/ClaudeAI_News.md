@@ -1,12 +1,12 @@
 ---
 title: Claude AI can now fill forms and book a trip
-description: Having a secure system is what's missing in the industrial sector. The proof is that the sector which is the most targeted by cybersecurity attacks is the industrial one !
+description: Anthropic says its model can perform computer tasks, raising concerns that this technology might replace human workers.
 pubDate: 2024-10-24 21:41
 author: "Friedrich Nihat Röben"
 tags:
-  - GitHub
-  - Markdown
-  - Contribution
+  - Claude AI
+  - AI
+  - Future
 imgUrl: '../../assets/claudeAI.webp'
 layout: '../../layouts/BlogPost.astro'
 ---

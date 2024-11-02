@@ -4,9 +4,9 @@ description: Oracle introduces a "tip and tail" model for Java libraries to help
 pubDate: 2024-10-17 23:42
 author: "Friedrich Nihat Röben"
 tags:
-  - GitHub
-  - Markdown
-  - Contribution
+  - Oracle
+  - Java
+  - TipTail
 imgUrl: '../../assets/java.webp'
 layout: '../../layouts/BlogPost.astro'
 ---

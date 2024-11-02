@@ -4,9 +4,9 @@ description: The research team, led by Wang Chao from Shanghai University, found
 pubDate: 2024-10-17 23:04
 author: "Friedrich Nihat Röben"
 tags:
-  - GitHub
-  - Markdown
-  - Contribution
+  - RSA
+  - Quantum
+  - Research
 imgUrl: '../../assets/quantum-computer.jpg'
 layout: '../../layouts/BlogPost.astro'
 ---
