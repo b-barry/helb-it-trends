@@ -6,7 +6,7 @@ tags:
   - Optimization
   - Web
   - Social Media
-imgUrl: '../../assets/discord-logo.webp' ## Add image
+imgUrl: '../../assets/discord-logo.webp'
 description: Over the last 6 months, Discord developers worked on an improvement of the bandwith usage of their iOS and Android clients, and managed to increase its speed by 40%. Learn here how they achieved this speed gain !
 layout: '../../layouts/BlogPost.astro'
 ---
