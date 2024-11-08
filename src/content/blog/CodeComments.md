@@ -29,7 +29,7 @@ Function comments serve a crucial purpose in programming: they are designed to p
 the actual code. By placing these comments at the top of function definitions (they can also appear above classes, ...) 
 they allow developers to treat the code as a "black box" with defined rules.
 If the function comment is good, the user should be able most of the times to jump back to what he was reading without 
-having to read the implementation of a function, a class or whatever.
+having to read the implementation of a function, a class or whatever.   
 
 ```bash
 /* Calculate the factorial of a number. Returns -1 if number is negative,
